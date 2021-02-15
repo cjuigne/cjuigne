@@ -28,18 +28,18 @@ at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Breedi
 **Preparatory classes for engineering schools**, bachelor's degree in Mathematics, Physics, Engineering and Computer Science
 
 ## Experience
-- *feb-nov 2020* : Research Engineer
+- (todo) *feb-nov 2020* : Research Engineer
   -  IRISA/INRIA équipe Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
   - INRAE Micalis (MICrobiologie de l'ALImentation au Service de la Santé Humaine) 
-- *may-oct 2019* : Intership
+- (todo) *may-oct 2019* : Intership
 "Integration and formal analysis of the ubyquitin interaction network" co-supervized by Emmanuelle Becker, Gwenaël Rabut and Olivier Dameron
 
 ## Projects
-### *2021*  "Elles codent, elles créent" 
+#### *2021*  "Elles codent, elles créent" 
   Computer science and Python intiation for middle school girls (Introduction to computational thinking through creative programming).
-### *2020*  [COVID19 Virtual BioHackathon 2020](https://github.com/virtual-biohackathons/covid-19-bh20/wiki)
-  Transpose Galaxy workflows in CWL : 
-### *2018*  Ada Lovelace Challenge
+#### *2020*  [COVID19 Virtual BioHackathon 2020](https://github.com/virtual-biohackathons/covid-19-bh20/wiki)
+  (todo) Transpose Galaxy workflows in CWL : 
+#### *2018*  Ada Lovelace Challenge
   Mentor in a team programming competition for high school girls. Students develop web micro-services around a theme chosen by a jury of computer scientists. 
-### *2017*  Smart-Agri Challenge
+#### *2017*  Smart-Agri Challenge
  Challenge on the theme "Digital technology serves Agriculture", an experience of entrepreneurship training (working in a project team, being creative, testing, experimenting, being coached by professionals, confronting the field). The objective is to imagine an innovative solution, including digital, for business needs in agriculture.
