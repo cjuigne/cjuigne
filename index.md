@@ -1,7 +1,7 @@
 ## Camille Juigné
 
 I am a PhD student in bioinformatics at both INRAE and IRISA, Agrocampus Ouest, supervised by Florence Gondret and Emmanuelle Becker.
-Title : “Analysis of heterogeneous biological data modelled with multiplex graphs applied to understand feeding efficiency”
+My research subject is “Analysis of heterogeneous biological data modelled with multiplex graphs applied to understand feeding efficiency” ...
 
 ## Contact
 mail : camille dot juigne at irisa dot fr
@@ -20,7 +20,7 @@ at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Livest
 #### *2018 - 2019* : Université du Québec à Montréal (UQAM)
 **Master in Computer Science**, Machine Learning, Data Mining, Big Data, Intelligent Tutoring System (ITS) and Bioinformatics
 
-### *2014 - 2016* : Montesquieu higth school Le Mans
+#### *2014 - 2016* : Montesquieu high school Le Mans
 **Preparatory classes for engineering schools**, bachelor's degree in Mathematics, Physics, Engineering and Computer Science
 
 ## Experience
@@ -31,7 +31,11 @@ at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Livest
 « Intégration de données et analyse formelle du réseau d’interactions entre enzymes d’ubiquitination », co-supervized with Gwenaël Rabut (Institut de Génétique du Développement de Rennes).
 
 ## Projects
-### *2021* : "Elles codent, elles créent"
-### *2020* : Biohackathon Covid19 
-### *2018* : Ada Lovelace Challenge
-### *2017* : Smart-Agri Challenge
+### *2021*  "Elles codent, elles créent" 
+  Computer science intiation (python) for middle school girls
+### *2020*  Biohackathon Covid19 
+  Transpose Galaxy workflows in CWL : 
+### *2018*  Ada Lovelace Challenge
+  Mentor in a web development initation contest for high school girls
+### *2017*  Smart-Agri Challenge
+  Contest 
