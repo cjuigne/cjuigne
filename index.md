@@ -7,6 +7,9 @@ Title : “Analysis of heterogeneous biological data modelled with multiplex gra
 camille dot juigne at irisa dot fr
 
 ## Education
+### 2020 - 2023 : PhD in bioinformatics 
+at INRAE UMR PEGASE (Physiologie, Environnement et Génétique pour l’Animal et les Systèmes d’Élevage) and IRISA in Team Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
+
 ### 2016 – 2019 : Advanced National College of Applied Science and Technology (Enssat Lannion)
 **Diplôme d'ingénieur in Computer Science**, Machine Learning, Graph Theory, Software development, Web development, Object Oriented development, Probabilities and Statistics, Project Management
 #### Activities and associations : 
