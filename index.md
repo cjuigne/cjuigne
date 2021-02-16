@@ -1,6 +1,6 @@
 ## Camille Juigné
 
-I am a PhD student in bioinformatics at both **INRAE** and **IRISA**, supervised by **Florence Gondret** and **Emmanuelle Becker**.
+I am a PhD student in bioinformatics at both **INRAE** and **IRISA**, supervised by **Florence Gondret** and **[Emmanuelle Becker](https://www-dyliss.irisa.fr/team-members/emmanuelle-becker/)**.
 
 My research subject concerns the integration and analysis of heterogeneous biological data modelled with multiplex graphs applied to understand and predict variations in feeding efficiency. The objective is to **identify networks of molecules to explain an animal phenotype**, by considering different levels of organization of the living, using statistics and then by analyzing multilayer graphs. This second approach has the advantage of adopting a **holistic view on biological organization** by integrating different omic levels. This allows to get closer to reality by considering things as a whole and linked together. 
 
