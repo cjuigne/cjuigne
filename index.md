@@ -7,12 +7,12 @@ My research subject concerns the integration and analysis of heterogeneous biolo
 In this case of application, understanding the valorization of food resources by the animal will lead to a saving of resources and a reduction of discharges and effluents into the environment. 
 
 ## Contact
-**mail** : camille dot juigne at irisa dot fr
+ - **mail** : camille dot juigne at irisa dot fr
 
  - Dyliss Team, INRIA/Irisa – Campus de Beaulieu, 35042 RENNES Cedex – France
  - Croissance Team, INRAE Pegase - 16 Le Clos Domaine de, La Prise, 35590 Saint-Gilles
  
-**ORCID** : [0000-0003-1157-9030](https://orcid.org/0000-0003-1157-9030)
+ - **ORCID** : [0000-0003-1157-9030](https://orcid.org/0000-0003-1157-9030)
 
 ## Education
 #### *2020 - 2023* : PhD in bioinformatics 
