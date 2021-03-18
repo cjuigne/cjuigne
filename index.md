@@ -20,6 +20,7 @@ In this case of application, understanding the valorization of food resources by
 
 #### *2016 – 2019* : Advanced National College of Applied Science and Technology ([Enssat Lannion](http://www.enssat.fr/))
 **Diplôme d'ingénieur in Computer Science**, Machine Learning, Graph Theory, Software development, Web development, Object Oriented development, Probabilities and Statistics, Project Management
+<br/>
 The "Software and Computing" specialised course is a very complete training in computer science. It offers a strong skillsets in the fields of software engineering (methods, algorithms, languages and tools), communication systems, man-to-machine interactivity and data management (data mining, Big Data, artificial intelligence).
 ##### Activities and associations : 
   - Member of the student association (2017-2018), responsible for organising events and student celebrations
