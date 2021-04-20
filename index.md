@@ -33,11 +33,17 @@ The "Software and Computing" specialised course is a very complete training in c
 **Preparatory classes for engineering schools**, bachelor's degree in Mathematics, Physics, Engineering and Computer Science
 
 ## Experience
-- (todo) *feb-nov 2020* : Research Engineer
+- *feb-nov 2020* : Research Engineer
   -  IRISA/INRIA équipe Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
   - INRAE Micalis (MICrobiologie de l'ALImentation au Service de la Santé Humaine) 
-- (todo) *may-oct 2019* : Intership
+  
+*I was in charge of developping **interoperable** genomic analysis tools for the European Commission : the European Open Science Cloud ([EOSC](https://www.eosc-life.eu/about/)) Life [WP2](https://forum.eosc-life.eu/t/eosc-life-wp2-roadmap/31).*
+ 
+-  *may-oct 2019* : Intership
 "Integration and formal analysis of the ubyquitin interaction network" co-supervized by Emmanuelle Becker, Gwenaël Rabut and Olivier Dameron
+
+*Protein–protein interactions are essential to ensure biologic processes, analysing them and considering the cells as an inner system provide us to understand these related processes.The biggest challenge is to discover all these interactions. Until recently, large scale sieve have been made using different methods. However, each one of these methods has its flaws and introduce detection bias. That is why we have been studying new methods to detect these interactions and that we have been extracting all the possible protein-protein interactions of the ubiquitine system in order to analyse them using formal methods.
+**The ubiquitin system governs the stability, activity and abundance of proteins in cells. Aberrations in the ubiquitin system may be linked to multiple pathologies and are particularly involved in human diseases such as cancer and neurodegenerative disorders.***
 
 ## Projects
 #### *2021*  ["Elles codent, elles créent"](https://lclc-rennes.irisa.fr/)
