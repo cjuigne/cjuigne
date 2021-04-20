@@ -16,7 +16,7 @@ In this case of application, understanding the valorization of food resources by
 
 ## Education
 #### *2020 - 2023* : PhD in bioinformatics 
-**"Analysis of heterogeneous biological data modelled with multiplex graphs applied to understand and predict variations in feeding efficiency"** at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Breeding Systems) and IRISA in Team Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
+**"Analysis of heterogeneous biological data modelled with multiplex graphs and applied for a better understanding of variations in feed efficiency of growing pigs"** at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Breeding Systems) and IRISA in Team Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
 
 #### *2016 – 2019* : Advanced National College of Applied Science and Technology ([Enssat Lannion](http://www.enssat.fr/))
 **Diplôme d'ingénieur in Computer Science**, Machine Learning, Graph Theory, Software development, Web development, Object Oriented development, Probabilities and Statistics, Project Management
