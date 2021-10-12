@@ -47,6 +47,8 @@ The "Software and Computing" specialised course is a very complete training in c
 
 ## Projects
 #### *2021*  ["Elles codent, elles créent"](https://lclc-rennes.irisa.fr/)
+  *oct-dec 2021*
+  *feb-may 2021*
   Computer science and Python intiation for middle school girls (Introduction to computational thinking through creative programming).
 #### *2020*  [COVID19 Virtual BioHackathon 2020](https://github.com/virtual-biohackathons/covid-19-bh20/wiki)
   (todo) Transpose Galaxy workflows in CWL : 
