@@ -46,9 +46,13 @@ The "Software and Computing" specialised course is a very complete training in c
 **The ubiquitin system governs the stability, activity and abundance of proteins in cells. Aberrations in the ubiquitin system may be linked to multiple pathologies and are particularly involved in human diseases such as cancer and neurodegenerative disorders.***
 
 ## Projects
+
+#### *2021-today* [Reading Circle](https://egalite-fh.irisa.fr/realisations/cercle-de-lecture/)
+  *member of the organization team of the 4th and 5th edition, participant since the 3rd edition* <br>
+  A reading circle for young researchers(PhD students and Postdocs) to read books on feminist topics within Computer Science together and share our thoughts and experiences.
+#### *2021-today* [Gender Equality Commission](https://egalite-fh.irisa.fr/)
 #### *2021*  ["Elles codent, elles créent"](https://lclc-rennes.irisa.fr/)
-  *oct-dec 2021* & *feb-may 2021*
-  
+  *oct-dec 2021* & *feb-may 2021* <br>
   Computer science and Python initiation for middle school girls (Introduction to computational thinking through creative programming).
 #### *2020*  [COVID19 Virtual BioHackathon 2020](https://github.com/virtual-biohackathons/covid-19-bh20/wiki)
   (todo) Transpose Galaxy workflows in CWL : 
