@@ -45,11 +45,27 @@ The "Software and Computing" specialised course is a very complete training in c
 *Protein–protein interactions are essential to ensure biologic processes, analysing them and considering the cells as an inner system provide us to understand these related processes.The biggest challenge is to discover all these interactions. Until recently, large scale sieve have been made using different methods. However, each one of these methods has its flaws and introduce detection bias. That is why we have been studying new methods to detect these interactions and that we have been extracting all the possible protein-protein interactions of the ubiquitine system in order to analyse them using formal methods.
 **The ubiquitin system governs the stability, activity and abundance of proteins in cells. Aberrations in the ubiquitin system may be linked to multiple pathologies and are particularly involved in human diseases such as cancer and neurodegenerative disorders.***
 
+## Publications
+- __Towards a reproducible interactome: semantic-based detection of redundancies to unify protein-protein interaction databases__. Marc Melkonian, Camille Juigné, Olivier Dameron, Gwenaël Rabut, Emmanuelle Becker. In _Bioinformatics_, Volume 38, Issue 6, 15 March 2022, Pages 1685–1691, [DOI](https://doi.org/10.1093/bioinformatics/btac013)
+
+## Talks
+*Conferences*
+- Jobim, Rennes, 2022. [slides]
+
+*Other talks*
+- Journées Numériques et Environnement de l’Inria, Rennes, 2022.
+
+## Teaching
+- Bases de données relationnelles, [ENSAI](https://ensai.fr/), 2021-2023
+- C++ pour la statistique computationelle, [ENSAI](https://ensai.fr/) 2021-2022
+- Données semistructurées et bases de données, [Rennes 1](https://istic.univ-rennes1.fr/), 2022-2023
+
+
 ## Projects
 
 #### *2021-today* [Reading Circle](https://egalite-fh.irisa.fr/realisations/cercle-de-lecture/)
-  *member of the organization team of the 4th and 5th edition, participant since the 3rd edition* <br>
-  A reading circle for young researchers(PhD students and Postdocs) to read books on feminist topics within Computer Science together and share our thoughts and experiences.
+  *member of the organization team of the 4th, 5th and 6th edition, participant since the 3rd edition* <br>
+  A reading circle for young researchers (PhD students and Postdocs) to read books on feminist topics within Computer Science together and share our thoughts and experiences.
 #### *2021-today* [Gender Equality Commission](https://egalite-fh.irisa.fr/)
 #### *2021*  ["Elles codent, elles créent"](https://lclc-rennes.irisa.fr/)
   *oct-dec 2021* & *feb-may 2021* <br>
