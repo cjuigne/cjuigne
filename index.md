@@ -50,7 +50,7 @@ The "Software and Computing" specialised course is a very complete training in c
 
 ## Talks
 *Conferences*
-- Jobim, Rennes, 2022. [slides]
+- [Jobim](https://jobim2022.sciencesconf.org/), Rennes, 2022. [slides]
 
 *Other talks*
 - Journées Numériques et Environnement de l’Inria, Rennes, 2022.
