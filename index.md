@@ -57,7 +57,7 @@ The "Software and Computing" specialised course is a very complete training in c
 
 ## Teaching
 - Bases de données relationnelles, [ENSAI](https://ensai.fr/), 2021-2023
-- C++ pour la statistique computationelle, [ENSAI](https://ensai.fr/) 2021-2022
+- C++ pour la statistique computationelle, [ENSAI](https://ensai.fr/), 2021-2022
 - Données semistructurées et bases de données, [Rennes 1](https://istic.univ-rennes1.fr/), 2022-2023
 - Python, [ENSAI](https://ensai.fr/) 2022-2023
 
