@@ -1,5 +1,5 @@
 ## Camille Juigné
----
+
 ### ✨ NEWS ✨
 
 📰 Our method for fixing molecular complexes in BioPAX standards is now published in **Bioinformatics** (Oxford Academic): [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad257/7142554).
