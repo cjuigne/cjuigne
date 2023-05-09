@@ -1,5 +1,14 @@
 ## Camille Juigné
+---
+### ✨ NEWS ✨
 
+📰 Our method for fixing molecular complexes in BioPAX standards is now published in **Bioinformatics** (Oxford Academic): [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad257/7142554).
+
+🎤 I will present my work "Combined transcriptomics and metabolomics in the whole blood to depict feed efficiency in pigs" at the **EAAP international conference** in the session 41 "Open the black box: using omics to better understand biological interpretation of complex traits" that will be held on **30 August 2023**.
+
+
+---
+## Presentation
 I am a PhD student in bioinformatics at both **INRAE** and **IRISA**, supervised by **Florence Gondret** and **[Emmanuelle Becker](https://www-dyliss.irisa.fr/team-members/emmanuelle-becker/)**.
 
 My research subject concerns the integration and analysis of heterogeneous biological data modelled with multiplex graphs applied to understand and predict variations in feeding efficiency. The objective is to **identify networks of molecules to explain an animal phenotype**, by considering different levels of organization of the living, using statistics and then by analyzing multilayer graphs. This second approach has the advantage of adopting a **holistic view on biological organization** by integrating different omic levels. This allows to get closer to reality by considering things as a whole and linked together. 
