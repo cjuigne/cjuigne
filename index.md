@@ -4,7 +4,7 @@
 
 📰 Our method for fixing molecular complexes in BioPAX standards is now published in **Bioinformatics** (Oxford Academic): [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad257/7142554).
 
-🎤 I will present my work "Combined transcriptomics and metabolomics in the whole blood to depict feed efficiency in pigs" at the **EAAP international conference** in the session 41 "Open the black box: using omics to better understand biological interpretation of complex traits" that will be held on **30 August 2023**.
+🎤 I will present my work "Combined transcriptomics and metabolomics in the whole blood to depict feed efficiency in pigs" at the **[EAAP](https://meetings.eaap.org/) international conference** in the session 41 "Open the black box: using omics to better understand biological interpretation of complex traits" that will be held on **30 August 2023**.
 
 
 ---
