@@ -55,8 +55,10 @@ The "Software and Computing" specialised course is a very complete training in c
 **The ubiquitin system governs the stability, activity and abundance of proteins in cells. Aberrations in the ubiquitin system may be linked to multiple pathologies and are particularly involved in human diseases such as cancer and neurodegenerative disorders.***
 
 ## Publications
-- __Fixing molecular complexes in BioPAX standards to enrich interactions and detect redundancies using Semantic Web Technologies__. **Camille Juigné**, Olivier Dameron, François Moreews, Florence Gondret, Emmanuelle Becker. In _Bioinformatics_, April 2023, [DOI](https://doi.org/10.1093/bioinformatics/btad257)
-- __Towards a reproducible interactome: semantic-based detection of redundancies to unify protein-protein interaction databases__. Marc Melkonian, **Camille Juigné**, Olivier Dameron, Gwenaël Rabut, Emmanuelle Becker. In _Bioinformatics_, Volume 38, Issue 6, 15 March 2022, Pages 1685–1691, [DOI](https://doi.org/10.1093/bioinformatics/btac013)
+- [3] *submitted* __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ **Camille Juigné**, Emmanuelle Becker, Florence Gondret.
+
+- [2] __Fixing molecular complexes in BioPAX standards to enrich interactions and detect redundancies using Semantic Web Technologies__. **Camille Juigné**, Olivier Dameron, François Moreews, Florence Gondret, Emmanuelle Becker. In _Bioinformatics_, April 2023, [DOI](https://doi.org/10.1093/bioinformatics/btad257)
+- [1]  __Towards a reproducible interactome: semantic-based detection of redundancies to unify protein-protein interaction databases__. Marc Melkonian, **Camille Juigné**, Olivier Dameron, Gwenaël Rabut, Emmanuelle Becker. In _Bioinformatics_, Volume 38, Issue 6, 15 March 2022, Pages 1685–1691, [DOI](https://doi.org/10.1093/bioinformatics/btac013)
 
 ## Talks
 *Conferences*
