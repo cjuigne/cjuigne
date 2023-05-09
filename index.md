@@ -60,7 +60,8 @@ The "Software and Computing" specialised course is a very complete training in c
 
 ## Talks
 *Conferences*
-- [BBCC](https://www.bbcc-meetings.it/) Bioinformatics and Computational Biology Conference, 2023. [[slides](https://inria.hal.science/hal-03876091)]
+- [EAAP](https://meetings.eaap.org/) European Federation for Animal Science Conference : "Combined transcriptomics and metabolomics in the whole blood to depict feed efficiency in pigs" in the session 41 "Open the black box: using omics to better understand biological interpretation of complex traits" that will be held on **30 August 2023**.
+- [BBCC](https://www.bbcc-meetings.it/) Bioinformatics and Computational Biology Conference, 2022. [[slides](https://inria.hal.science/hal-03876091)]
 - [Jobim](https://jobim2022.sciencesconf.org/), Rennes, 2022. [[slides](https://hal.archives-ouvertes.fr/hal-03752473v1)]
 
 *Other talks*
