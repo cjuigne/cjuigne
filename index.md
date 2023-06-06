@@ -78,7 +78,7 @@ The "Software and Computing" specialised course is a very complete training in c
 ## Projects
 
 #### *2021-today* [Reading Circle](https://egalite-fh.irisa.fr/realisations/cercle-de-lecture/)
-  *member of the organization team of the 4th, 5th and 6th edition, participant since the 3rd edition* <br>
+  *member of the organization team of the 4th, 5th, 6th and 7th edition, participant since the 3rd edition* <br>
   A reading circle for young researchers (PhD students and Postdocs) to read books on feminist topics within Computer Science together and share our thoughts and experiences.
 #### *2021-today* [Gender Equality Commission](https://egalite-fh.irisa.fr/)
 #### *2021*  ["Elles codent, elles créent"](https://lclc-rennes.irisa.fr/)
