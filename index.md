@@ -75,7 +75,7 @@ The "Software and Computing" specialised course is a very complete training in c
 - Données semistructurées et bases de données, [Rennes 1](https://istic.univ-rennes1.fr/), 2022-2023
 - Python, [ENSAI](https://ensai.fr/) 2022-2023
 
-## Master students :
+## Master students
 - Océane Carpentier  (may 2023 – july 2023): "Analyse conjointe de données transcriptomiques et métabolomiques dans les réseaux métaboliques au format BioPAX"
 
 ## Projects
