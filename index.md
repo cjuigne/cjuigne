@@ -2,7 +2,12 @@
 
 ### ✨ NEWS ✨
 
+🎤 I will defend my PhD thesis on the first of December in Rennes.
+
+📰  Our manuscript on __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ has been accepted in _BMC Genomics_. 
+
 📰 Our method for fixing molecular complexes in BioPAX standards is now published in **Bioinformatics** (Oxford Academic): [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad257/7142554).
+
 
 🎤 I will present my work "Combined transcriptomics and metabolomics in the whole blood to depict feed efficiency in pigs" at the **[EAAP](https://meetings.eaap.org/) international conference** in the session 41 "Open the black box: using omics to better understand biological interpretation of complex traits" that will be held on **30 August 2023**.
 
@@ -55,7 +60,7 @@ The "Software and Computing" specialised course is a very complete training in c
 **The ubiquitin system governs the stability, activity and abundance of proteins in cells. Aberrations in the ubiquitin system may be linked to multiple pathologies and are particularly involved in human diseases such as cancer and neurodegenerative disorders.***
 
 ## Publications
-- [S1] *submitted* __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ **Camille Juigné**, Emmanuelle Becker, Florence Gondret.
+- [3]  __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ **Camille Juigné**, Emmanuelle Becker, Florence Gondret. In _BMC Genomics_, 2023.
 
 - [2] __Fixing molecular complexes in BioPAX standards to enrich interactions and detect redundancies using Semantic Web Technologies__. **Camille Juigné**, Olivier Dameron, François Moreews, Florence Gondret, Emmanuelle Becker. In _Bioinformatics_, April 2023, [DOI](https://doi.org/10.1093/bioinformatics/btad257)
 - [1]  __Towards a reproducible interactome: semantic-based detection of redundancies to unify protein-protein interaction databases__. Marc Melkonian, **Camille Juigné**, Olivier Dameron, Gwenaël Rabut, Emmanuelle Becker. In _Bioinformatics_, Volume 38, Issue 6, 15 March 2022, Pages 1685–1691, [DOI](https://doi.org/10.1093/bioinformatics/btac013)
