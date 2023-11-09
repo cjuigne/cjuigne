@@ -2,14 +2,14 @@
 
 ### ✨ NEWS ✨
 
-🎤 I will defend my PhD thesis on the first of December in Rennes.
+🎤📆 I will defend my PhD thesis on the first of December in Rennes at l'Institut Agro Rennes-Angers.
 
-📰  Our manuscript on __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ has been accepted in _BMC Genomics_. 
+📰  Our manuscript on __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ has been accepted in _BMC Genomics_. [available here!](https://doi.org/10.1186/s12864-023-09751-1)
 
-📰 Our method for fixing molecular complexes in BioPAX standards is now published in **Bioinformatics** (Oxford Academic): [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad257/7142554).
+<!-- 📰 Our method for fixing molecular complexes in BioPAX standards is now published in **Bioinformatics** (Oxford Academic): [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad257/7142554).-->
 
 
-🎤 I will present my work "Combined transcriptomics and metabolomics in the whole blood to depict feed efficiency in pigs" at the **[EAAP](https://meetings.eaap.org/) international conference** in the session 41 "Open the black box: using omics to better understand biological interpretation of complex traits" that will be held on **30 August 2023**.
+<!-- 🎤 I will present my work "Combined transcriptomics and metabolomics in the whole blood to depict feed efficiency in pigs" at the **[EAAP](https://meetings.eaap.org/) international conference** in the session 41 "Open the black box: using omics to better understand biological interpretation of complex traits" that will be held on **30 August 2023**. -->
 
 
 ---
