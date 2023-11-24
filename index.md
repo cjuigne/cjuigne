@@ -2,7 +2,7 @@
 
 ### ✨ NEWS ✨
 
-🎤📆 I will defend my PhD thesis on the first of December in Rennes at l'Institut Agro Rennes-Angers.
+🎤📆 I will defend my PhD thesis on the 1st of December in Rennes at l'Institut Agro Rennes-Angers (9am., Matagrin Amphitheatre).
 
 📰  Our manuscript on __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ has been accepted in _BMC Genomics_. [available here!](https://doi.org/10.1186/s12864-023-09751-1)
 
@@ -54,7 +54,7 @@ The "Software and Computing" specialised course is a very complete training in c
 *I was in charge of developping **interoperable** genomic analysis tools for the European Commission : the European Open Science Cloud ([EOSC](https://www.eosc-life.eu/about/)) Life [WP2](https://forum.eosc-life.eu/t/eosc-life-wp2-roadmap/31).*
  
 -  *may-oct 2019* : Intership
-"Integration and formal analysis of the ubyquitin interaction network" co-supervized by Emmanuelle Becker, Gwenaël Rabut and Olivier Dameron
+"Data integration and formal analysis of the network between ubiquitination enzymes" co-supervized by Emmanuelle Becker, Gwenaël Rabut and Olivier Dameron
 
 *Protein–protein interactions are essential to ensure biologic processes, analysing them and considering the cells as an inner system provide us to understand these related processes.The biggest challenge is to discover all these interactions. Until recently, large scale sieve have been made using different methods. However, each one of these methods has its flaws and introduce detection bias. That is why we have been studying new methods to detect these interactions and that we have been extracting all the possible protein-protein interactions of the ubiquitine system in order to analyse them using formal methods.
 **The ubiquitin system governs the stability, activity and abundance of proteins in cells. Aberrations in the ubiquitin system may be linked to multiple pathologies and are particularly involved in human diseases such as cancer and neurodegenerative disorders.***
