@@ -2,7 +2,7 @@
 
 ### ✨ NEWS ✨
 
-🎤📆 I will defend my PhD thesis on the 1st of December in Rennes at l'Institut Agro Rennes-Angers (9am., Matagrin Amphitheatre).
+🎤📆 I defended my PhD thesis on the 1st of December in Rennes at l'Institut Agro Rennes-Angers (9am., Matagrin Amphitheatre).
 
 📰  Our manuscript on __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ has been accepted in _BMC Genomics_. [available here!](https://doi.org/10.1186/s12864-023-09751-1)
 
@@ -21,16 +21,17 @@ My research subject concerns the integration and analysis of heterogeneous biolo
 In this case of application, understanding the valorization of food resources by the animal will lead to a saving of resources and a reduction of discharges and effluents into the environment. 
 
 ## Contact
- - **mail** : camille *dot* juigne *at* irisa *dot* fr
+ - **mail** : juigne *dot* camille *at* gmail *dot* com
 
  - Dyliss Team, INRIA/Irisa – Campus de Beaulieu, 35042 RENNES Cedex – France
  - Croissance Team, INRAE Pegase - 16 Le Clos Domaine de, La Prise, 35590 Saint-Gilles
  
  - **ORCID** : [0000-0003-1157-9030](https://orcid.org/0000-0003-1157-9030)
+ - **Twitter** : [CamilleJuigne](https://twitter.com/CamilleJuigne)
 
 ## Education
 #### *2020 - 2023* : PhD in bioinformatics 
-**"Analysis of heterogeneous biological data modelled with multiplex graphs and applied for a better understanding of variations in feed efficiency of growing pigs"** at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Breeding Systems) and IRISA in Team Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
+**"Integration and analysis of heterogeneous biological data through multilayer graph exploitation to gain deeper insights into feed efficiency variations in growing pigs** at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Breeding Systems) and IRISA in Team Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
 
 #### *2016 – 2019* : Advanced National College of Applied Science and Technology ([Enssat Lannion](http://www.enssat.fr/))
 **Diplôme d'ingénieur in Computer Science**, Machine Learning, Graph Theory, Software development, Web development, Object Oriented development, Probabilities and Statistics, Project Management
