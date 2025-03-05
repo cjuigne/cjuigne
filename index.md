@@ -6,7 +6,7 @@
 
 🎤📆 I have been invited to talk about Open Science in Agronomy at the "[Salon International de l'Agricuture](https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture)" 2025 in Paris. Replay available [here](https://www.youtube.com/live/yXg4C26aN-Y?si=-DDLM5-T6oKOUcDn).
 
-:trophy: I had the honor to receive the Open Science Thesis Award from the French Ministery of Research! [press release](https://www.ouvrirlascience.fr/remise-des-premiers-prix-science-ouverte-de-la-these/)
+🏆 I had the honor to receive the Open Science Thesis Award from the French Ministery of Research! [press release](https://www.ouvrirlascience.fr/remise-des-premiers-prix-science-ouverte-de-la-these/)
 
 📰  Our manuscript on __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ has been accepted in _BMC Genomics_. [available here!](https://doi.org/10.1186/s12864-023-09751-1)
 
