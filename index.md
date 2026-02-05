@@ -30,8 +30,10 @@ I am a postdoctorant fellow in bioinformatics at **INRIA** Sophia Antipolis.
 ## Contact
  - **mail** : juigne *dot* camille *at* gmail *dot* com
 
- - Dyliss Team, INRIA/Irisa – Campus de Beaulieu, 35042 RENNES Cedex – France
- - Croissance Team, INRAE Pegase - 16 Le Clos Domaine de, La Prise, 35590 Saint-Gilles
+ - Wimmics Team, (web-instrumented human-machine interactions, communities and semantics) - Université Côte d’Azur, Inria, CNRS, I3S, France
+
+
+
  
  - **ORCID** : [0000-0003-1157-9030](https://orcid.org/0000-0003-1157-9030)
  - **Twitter** : [CamilleJuigne](https://twitter.com/CamilleJuigne)
