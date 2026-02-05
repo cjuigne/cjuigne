@@ -2,13 +2,15 @@
 
 ### ✨ NEWS ✨
 
-<!--🎤📆 I defended my PhD thesis on the 1st of December in Rennes at l'Institut Agro Rennes-Angers (9am., Matagrin Amphitheatre).-->
+🎤📆 I have been invited to talk about my experience of Open Science during my PhD at the "[Open Science Week en Normandie]([https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture](https://www.unicaen.fr/evenement/open-science-week-en-normandie/))" 2026.
+
 🎤 As part of the [FEMLEAD](https://femlead.eu) project, I shared my experience as a woman in computer science and Open Science Thesis Award laureate through two testimonies in Montpellier — first with young female PhD students (October, 24), then last week with women researchers — to foster dialogue and promote women’s leadership in open science (November, 6).
 
 🎤📆 I have been invited to talk about Open Science in Agronomy at the "[Salon International de l'Agricuture](https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture)" 2025 in Paris. Replay available [here](https://www.youtube.com/live/yXg4C26aN-Y?si=-DDLM5-T6oKOUcDn).
 
 🏆 I had the honor to receive the Open Science Thesis Award from the French Ministery of Research! [press release](https://www.ouvrirlascience.fr/remise-des-premiers-prix-science-ouverte-de-la-these/)
 
+<!--🎤📆 I defended my PhD thesis on the 1st of December in Rennes at l'Institut Agro Rennes-Angers (9am., Matagrin Amphitheatre).-->
 <!--📰  Our manuscript on __Small networks of expressed genes in the whole blood and relationships to profiles in circulating metabolites provide insights in inter-individual variability of feed efficiency in growing pigs.__ has been accepted in _BMC Genomics_. [available here!](https://doi.org/10.1186/s12864-023-09751-1)-->
 
 <!-- 📰 Our method for fixing molecular complexes in BioPAX standards is now published in **Bioinformatics** (Oxford Academic): [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad257/7142554).-->
@@ -19,11 +21,11 @@
 
 ---
 ## Presentation
-I am a PhD student in bioinformatics at both **INRAE** and **IRISA**, supervised by **Florence Gondret** and **[Emmanuelle Becker](https://www-dyliss.irisa.fr/team-members/emmanuelle-becker/)**.
+I am a postdoctorant fellow in bioinformatics at **INRIA** Sophia Antipolis.
 
-My research subject concerns the integration and analysis of heterogeneous biological data modelled with multiplex graphs applied to understand and predict variations in feeding efficiency. The objective is to **identify networks of molecules to explain an animal phenotype**, by considering different levels of organization of the living, using statistics and then by analyzing multilayer graphs. This second approach has the advantage of adopting a **holistic view on biological organization** by integrating different omic levels. This allows to get closer to reality by considering things as a whole and linked together. 
+<!-- My research subject concerns the integration and analysis of heterogeneous biological data modelled with multiplex graphs applied to understand and predict variations in feeding efficiency. The objective is to **identify networks of molecules to explain an animal phenotype**, by considering different levels of organization of the living, using statistics and then by analyzing multilayer graphs. This second approach has the advantage of adopting a **holistic view on biological organization** by integrating different omic levels. This allows to get closer to reality by considering things as a whole and linked together. -->
 
-In this case of application, understanding the valorization of food resources by the animal will lead to a saving of resources and a reduction of discharges and effluents into the environment. 
+<!-- In this case of application, understanding the valorization of food resources by the animal will lead to a saving of resources and a reduction of discharges and effluents into the environment. -->
 
 ## Contact
  - **mail** : juigne *dot* camille *at* gmail *dot* com
@@ -36,7 +38,12 @@ In this case of application, understanding the valorization of food resources by
 
 ## Education
 #### *2020 - 2023* : PhD in bioinformatics 
-**"Integration and analysis of heterogeneous biological data through multilayer graph exploitation to gain deeper insights into feed efficiency variations in growing pigs** at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Breeding Systems) and IRISA in Team Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
+**"Integration and analysis of heterogeneous biological data through multilayer graph exploitation to gain deeper insights into feed efficiency variations in growing pigs** at INRAE UMR PEGASE (Physiology, Environment and Genetics for Animals and Breeding Systems) and IRISA in Team Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences), supervised by **Florence Gondret** and **[Emmanuelle Becker](https://www-dyliss.irisa.fr/team-members/emmanuelle-becker/)**.
+
+My research subject concerns the integration and analysis of heterogeneous biological data modelled with multiplex graphs applied to understand and predict variations in feeding efficiency. The objective is to **identify networks of molecules to explain an animal phenotype**, by considering different levels of organization of the living, using statistics and then by analyzing multilayer graphs. This second approach has the advantage of adopting a **holistic view on biological organization** by integrating different omic levels. This allows to get closer to reality by considering things as a whole and linked together. 
+
+In this case of application, understanding the valorization of food resources by the animal will lead to a saving of resources and a reduction of discharges and effluents into the environment. 
+
 
 #### *2016 – 2019* : Advanced National College of Applied Science and Technology ([Enssat Lannion](http://www.enssat.fr/))
 **Diplôme d'ingénieur in Computer Science**, Machine Learning, Graph Theory, Software development, Web development, Object Oriented development, Probabilities and Statistics, Project Management
@@ -53,6 +60,10 @@ The "Software and Computing" specialised course is a very complete training in c
 **Preparatory classes for engineering schools**, bachelor's degree in Mathematics, Physics, Engineering and Computer Science
 
 ## Experience
+- *feb-dec 2025*: Postodoctorant Fellow
+  - IRCM Institut de Recherche en Cancérologie de Montpellier (IRCM U1194)
+  - Université de Montpellier   
+
 - *feb-nov 2020* : Research Engineer
   -  IRISA/INRIA équipe Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
   - INRAE Micalis (MICrobiologie de l'ALImentation au Service de la Santé Humaine) 
