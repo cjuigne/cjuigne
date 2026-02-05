@@ -2,7 +2,7 @@
 
 ### ✨ NEWS ✨
 
-🎤📆 I have been invited to talk about my experience of Open Science during my PhD at the "[Open Science Week en Normandie]([https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture](https://www.unicaen.fr/evenement/open-science-week-en-normandie/))" 2026.
+🎤 I have been invited to talk about my experience of Open Science during my PhD at the "[Open Science Week en Normandie]([https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture](https://www.unicaen.fr/evenement/open-science-week-en-normandie/))" 2026.
 
 🎤 As part of the [FEMLEAD](https://femlead.eu) project, I shared my experience as a woman in computer science and Open Science Thesis Award laureate through two testimonies in Montpellier — first with young female PhD students (October, 24), then last week with women researchers — to foster dialogue and promote women’s leadership in open science (November, 6).
 
