@@ -2,7 +2,9 @@
 
 ### ✨ NEWS ✨
 
-🎤 I have been invited to talk about my experience of Open Science during my PhD at the "[Open Science Week en Normandie]([https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture](https://www.unicaen.fr/evenement/open-science-week-en-normandie/))" 2026.
+👩‍🏫 February 9: I visited a middle school class as part of the [Maths & Girls program](https://www.education.gouv.fr/plan-filles-et-maths-pour-que-les-jeunes-filles-prennent-toute-leur-place-dans-les-metiers-de-l-450509). 
+
+🎤 I have been invited to talk about my experience of Open Science during my PhD at the "[Open Science Week en Normandie]([https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture](https://www.unicaen.fr/evenement/open-science-week-en-normandie/))" 2026. Replay available [here](https://www.canal-u.tv/chaines/normuniv/prix-de-these-science-ouverte-retour-d-experience).
 
 🎤 As part of the [FEMLEAD](https://femlead.eu) project, I shared my experience as a woman in computer science and Open Science Thesis Award laureate through two testimonies in Montpellier — first with young female PhD students (October, 24), then last week with women researchers — to foster dialogue and promote women’s leadership in open science (November, 6).
 
