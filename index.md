@@ -93,6 +93,7 @@ The "Software and Computing" specialised course is a very complete training in c
 - [Jobim](https://jobim2022.sciencesconf.org/), Rennes, 2022. [[slides](https://hal.archives-ouvertes.fr/hal-03752473v1)]
 
 *Other talks*
+- L'IA en sciences du vivant : la parole aux jeunes scientifiques, online, 2024. [replay](https://digitbio.hub.inrae.fr/animations/l-ia-en-sciences-du-vivant-la-parole-aux-jeunes-scientifiques/replay-seance-2-camille-juigne)
 - Journées Numériques et Environnement de l’Inria, Rennes, 2022.
 
 ## Teaching
