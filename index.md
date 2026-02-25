@@ -40,6 +40,7 @@ I am a postdoctorant fellow in bioinformatics at **INRIA** Sophia Antipolis.
 
  
  - **ORCID** : [0000-0003-1157-9030](https://orcid.org/0000-0003-1157-9030)
+ - **BSKY** : [@camillejuigne.bsky.social](https://bsky.app/profile/camillejuigne.bsky.social)
  - **Twitter** : [CamilleJuigne](https://twitter.com/CamilleJuigne)
 
 ## Education
