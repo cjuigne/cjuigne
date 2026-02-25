@@ -2,7 +2,7 @@
 
 ### ✨ NEWS ✨
 
-👩‍🏫 February 18: I welcomed four middle-school girls and introduced them to a creative programming workshop in Python as part of the [DigiFilles initiative] (https://www.digifilles.fr) in Montpellier.
+👩‍🏫 February 18: I welcomed four middle-school girls and introduced them to a creative programming workshop in Python as part of the [DigiFilles initiative](https://www.digifilles.fr) in Montpellier.
 
 👩‍🏫 February 9: I visited a middle school class as part of the [Maths & Girls program](https://www.education.gouv.fr/plan-filles-et-maths-pour-que-les-jeunes-filles-prennent-toute-leur-place-dans-les-metiers-de-l-450509). 
 
@@ -111,10 +111,10 @@ The "Software and Computing" specialised course is a very complete training in c
 
 ## Projects
 
-#### *2021-today* [Reading Circle](https://egalite-fh.irisa.fr/realisations/cercle-de-lecture/)
+#### *2021-2025* [Reading Circle](https://egalite-fh.irisa.fr/realisations/cercle-de-lecture/)
   *member of the organization team of the 4th, 5th, 6th and 7th edition, participant since the 3rd edition* <br>
   A reading circle for young researchers (PhD students and Postdocs) to read books on feminist topics within Computer Science together and share our thoughts and experiences.
-#### *2021-today* [Gender Equality Commission](https://egalite-fh.irisa.fr/)
+#### *2021-2023* [Gender Equality Commission](https://egalite-fh.irisa.fr/)
 #### *2022* [Member of the JOBIM2022 Organizing committee](https://jobim2022.sciencesconf.org/)
 #### *2021*  ["Elles codent, elles créent"](https://lclc-rennes.irisa.fr/)
   *oct-dec 2021* & *feb-may 2021* <br>
