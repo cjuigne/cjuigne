@@ -2,6 +2,8 @@
 
 ### ✨ NEWS ✨
 
+👩‍🏫 February 18: I welcomed four middle-school girls and introduced them to a creative programming workshop in Python as part of the [DigiFilles initiative] (https://www.digifilles.fr) in Montpellier.
+
 👩‍🏫 February 9: I visited a middle school class as part of the [Maths & Girls program](https://www.education.gouv.fr/plan-filles-et-maths-pour-que-les-jeunes-filles-prennent-toute-leur-place-dans-les-metiers-de-l-450509). 
 
 🎤 I have been invited to talk about my experience of Open Science during my PhD at the "[Open Science Week en Normandie]([https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture](https://www.unicaen.fr/evenement/open-science-week-en-normandie/))" 2026. Replay available [here](https://www.canal-u.tv/chaines/normuniv/prix-de-these-science-ouverte-retour-d-experience).
@@ -69,7 +71,7 @@ The "Software and Computing" specialised course is a very complete training in c
   - Université de Montpellier   
 
 - *feb-nov 2020* : Research Engineer
-  -  IRISA/INRIA équipe Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
+  - IRISA/INRIA équipe Dyliss (DYnamics, Logics and Inference for biological Systems and Sequences)
   - INRAE Micalis (MICrobiologie de l'ALImentation au Service de la Santé Humaine) 
   
 *I was in charge of developping **interoperable** genomic analysis tools for the European Commission : the European Open Science Cloud ([EOSC](https://www.eosc-life.eu/about/)) Life [WP2](https://forum.eosc-life.eu/t/eosc-life-wp2-roadmap/31).*
@@ -93,7 +95,9 @@ The "Software and Computing" specialised course is a very complete training in c
 - [Jobim](https://jobim2022.sciencesconf.org/), Rennes, 2022. [[slides](https://hal.archives-ouvertes.fr/hal-03752473v1)]
 
 *Other talks*
-- L'IA en sciences du vivant : la parole aux jeunes scientifiques, online, 2024. [replay](https://digitbio.hub.inrae.fr/animations/l-ia-en-sciences-du-vivant-la-parole-aux-jeunes-scientifiques/replay-seance-2-camille-juigne)
+- Wimmics Seminar, Sophia-Antipolis, 2026. Replay available [here](https://youtu.be/TTWlCOk5sw0).
+- I have been invited to talk about Open Science in Agronomy at the "[Salon International de l'Agricuture](https://www.institut-agro-rennes-angers.fr/actualites/linstitut-agro-au-salon-international-de-lagriculture)" 2025 in Paris. Replay available [here](https://www.youtube.com/live/yXg4C26aN-Y?si=-DDLM5-T6oKOUcDn).
+- L'IA en sciences du vivant : la parole aux jeunes scientifiques, online, 2024. [replay](https://digitbio.hub.inrae.fr/animations/l-ia-en-sciences-du-vivant-la-parole-aux-jeunes-scientifiques/replay-seance-2-camille-juigne).
 - Journées Numériques et Environnement de l’Inria, Rennes, 2022.
 
 ## Teaching
@@ -103,7 +107,7 @@ The "Software and Computing" specialised course is a very complete training in c
 - Python, [ENSAI](https://ensai.fr/) 2022-2023
 
 ## Master students
-- Océane Carpentier  (may 2023 – july 2023): "Analyse conjointe de données transcriptomiques et métabolomiques dans les réseaux métaboliques au format BioPAX"
+- Océane Carpentier (may 2023 – july 2023): "Analyse conjointe de données transcriptomiques et métabolomiques dans les réseaux métaboliques au format BioPAX"
 
 ## Projects
 
